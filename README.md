@@ -43,6 +43,12 @@ page](https://www.foreflight.com/support/content-packs/)
 This respository maintains a directory of US Custom Border Patrol Ports of Entry for the Southern area of the US viewable as waypoints and also provides the repective datasheets.  This allows you to research and plan your destination around US CBP southen entries.
 
 [US CBP Souther Border](https://ingramleedy.github.io/Cross-Border-Flying/contentpacks/US%20CBP%20Southern%20Border.zip) download
+
+## Version History and Future Ideas
+
+* Version 2023.11.07 
+  * Inital version of Souther Border Port for Entry for US Customs and Border Patrol Airports
+     
  
 # Legal Disclaimer
 
@@ -50,3 +56,5 @@ All files are provided for educational purposes only. They are not to
 be used as a navigation tool. No claim is made regarding the accuracy
 of these charts and their contents.
 
+# Other related projects
+[Airport Restaurants](https://github.com/ingramleedy/Airport_Restaurants) - ForeFlight content packs for pilot's who love a mission to fly and eat somewhere that is on location of an airport or just nearby walking distance.
