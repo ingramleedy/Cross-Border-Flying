@@ -10,7 +10,7 @@ for more details.
 
 # US Custom Border (Southern Point of Entry)
 
-This respository maintains a directory of US Custom Border Patrol Ports of Entry for the Southern area of the US viewable as waypoints on the ForeFlight map page by using the ForeFlight *content packs*.  This allows you to research and plan your destination around food.
+This respository maintains a directory of US Custom Border Patrol Ports of Entry for the Southern area of the US viewable as waypoints and also provides the repective datasheets.  This allows you to research and plan your destination around US CBP southen entries.
 
 [US CBP Souther Border](https://ingramleedy.github.io/Cross-Border-Flying/contentpacks/US%20CBP%20Southern%20Border.zip) download
  
