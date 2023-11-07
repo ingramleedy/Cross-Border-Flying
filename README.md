@@ -38,11 +38,11 @@ page](https://www.foreflight.com/support/content-packs/)
 9. **Close** ForeFlight app and **Re-Launch**.  This will refresh the content pack with its associated content.
 10. Choose the **Maps** page in ForeFlight and choose **Aero & Category** from maps layers and **select** the associated content pack name to activate the layer.
 
-# US Custom Border (Southern Point of Entry)
+# US Custom Border (Southern Points of Entry)
 
 This respository maintains a directory of US Custom Border Patrol Ports of Entry for the Southern area of the US viewable as waypoints and also provides the repective datasheets.  This allows you to research and plan your destination around US CBP southen entries.
 
-[US CBP Souther Border](https://ingramleedy.github.io/Cross-Border-Flying/contentpacks/US%20CBP%20Southern%20Border.zip) download
+[US CBP Southern Border](https://ingramleedy.github.io/Cross-Border-Flying/contentpacks/US%20CBP%20Southern%20Border.zip) download
 
 ## Version History and Future Ideas
 
