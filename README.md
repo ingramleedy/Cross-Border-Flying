@@ -20,7 +20,7 @@ This respository maintains a directory of US Custom Border Patrol Ports of Entry
 </p>
 
 <p align="center">
-  <img width="600" src="docs/imgs/florida-poe-overview (Medium).jpg" />   
+  <img width="600" src="docs/imgs/waypoint-details (Medium).jpg" />   
 </p>
 
 <p align="center">
