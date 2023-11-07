@@ -15,10 +15,7 @@ This respository maintains a directory of airport restaurants viewable as waypoi
 As an example, this is how the restaurants are shown over Florida, once
 the content pack is imported and selected from maps. 
 
-<p align="center">
-  <img width="600" src="docs/img/florida.jpg" />
-</p>
-
+[US CBP Souther Border](https://ingramleedy.github.io/Cross-Border-Flying/contentpacks/US CBP Southern Border.zip) download
  
 # Legal Disclaimer
 
