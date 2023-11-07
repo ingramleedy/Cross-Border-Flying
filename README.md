@@ -21,7 +21,7 @@ for more details.
   <img width="600" src="docs/imgs/example-datasheet (Medium).jpg" />   
 </p>
 
-## Importing Airport Restaurant's Content Packs into ForeFlight for Use 
+## Importing Content Packs into ForeFlight for Use 
 
 Detailed instructions about how to import Content Packs into
 Foreflight are available at their [support
