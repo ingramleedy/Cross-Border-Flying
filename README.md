@@ -49,7 +49,23 @@ This respository maintains a directory of US Custom Border Patrol Ports of Entry
 * Version 2023.11.07 
   * Initial version of Southern Border Port of Entry Airports for US Customs and Border Patrol (US CBP)
      
- 
+ ## ForeFlight Feature Request to Automatically Update New Versions
+
+Keeping this *content packs* updated once imported into ForeFlight requires re-downloading
+newer content packs and re-importing into ForeFlight.  
+
+#### Feature Request ####
+
+- The ability for content packs to be downloaded and updated from a URL.
+  - This would be the simplest method, a link to selected and added to downloads list and ForeFlight would periodically check for new updates. This would function the same way Downloads from ForeFlight work. Client could always delete content pack they no longer want to recieve.  
+
+- Allow concurrent multiple cloud drive providers for Documents
+  - The cloud storage feature is only available for *Performance Plus* subscribers of ForeFlight which by adding a folder named *contentpacks* to the root folder, content packs in
+the folder are automatically available to download and update. However only one cloud provider is available concurrently. Pilots may need access to multiple resources, companies, flight schools, 
+flight clubs, 3rd party content, etc. I envision a subscription service that provided valuable content on various contant that would currate and  keep up-to-date.
+
+Send your support for these request to ForeFlight Support [support@foreflight.com](mailto:support@foreflight.com).
+
 # Legal Disclaimer
 
 All files are provided for educational purposes only. They are not to
