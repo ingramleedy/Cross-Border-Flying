@@ -42,7 +42,7 @@ page](https://www.foreflight.com/support/content-packs/)
 
 This respository maintains a directory of US Custom Border Patrol Ports of Entry for the Southern area of the US viewable as waypoints and also provides the repective datasheets.  This allows you to research and plan your destination around US CBP southen entries.
 
-[US CBP Southern Border](https://ingramleedy.github.io/Cross-Border-Flying/contentpacks/US-Southern-Border.zip) download
+[US CBP Southern Border](https://ingramleedy.github.io/Cross-Border-Flying/contentpacks/US-CBP-Southern-Border.zip) download
 
 ## Version History and Future Ideas
 
