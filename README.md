@@ -47,7 +47,7 @@ This respository maintains a directory of US Custom Border Patrol Ports of Entry
 ## Version History and Future Ideas
 
 * Version 2023.11.07 
-  * Inital version of Souther Border Port for Entry for US Customs and Border Patrol Airports
+  * Initial version of Southern Border Port of Entry Airports for US Customs and Border Patrol (US CBP)
      
  
 # Legal Disclaimer
