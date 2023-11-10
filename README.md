@@ -49,7 +49,7 @@ This respository maintains a directory of US Custom Border Patrol Ports of Entry
 
 This respository maintains a directory of Bahamas Custom Ports of Entry viewable as waypoints.  
 
-[Bahamas Customs Ports of Entry](https://ingramleedy.github.io/Cross-Border-Flying/contentpacks/bahamas.zip) download
+[Bahamas Customs Ports of Entry](https://ingramleedy.github.io/Cross-Border-Flying/contentpacks/Bahamas.zip) download
 
 ## Version History and Future Ideas
 
