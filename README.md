@@ -53,6 +53,8 @@ This respository maintains a directory of Bahamas Custom Ports of Entry viewable
 
 ## Version History and Future Ideas
 
+* Version 2023.11.10
+  * Added Bahamas Custom Ports of Entry
 * Version 2023.11.07 
   * Initial version of Southern Border Port of Entry Airports for US Customs and Border Patrol (US CBP)
      
