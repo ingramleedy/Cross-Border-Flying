@@ -25,7 +25,7 @@ for more details.
 
 ### Bahamas ### 
 <p align="center">
-  <img width="600" src="docs/imgs/bahamas (Medium)).jpg" />   
+  <img width="600" src="docs/imgs/bahamas (Medium).jpg" />   
 </p>
 
 
